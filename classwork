@@ -1,1 +1,23 @@
+*******************27/02/25****************
+
+
+public class add1 {
+		public static void main(String[]args) {
+			cons sc=new cons(10);
+			cons sc1=new cons();	
+		}
+	}
+
+	class cons{
+		
+		 cons()
+		 {
+			 System.out.println(30);
+		 }
+		 cons(int a)
+		 {
+			 System.out.println(a+30);
+		 }
+		}
+	
 
